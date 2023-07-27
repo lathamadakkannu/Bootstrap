@@ -1,0 +1,48 @@
+*{
+	margin:auto;
+	padding:0;
+	box-sizing:border-box;
+	font-family:Roboto;
+}
+	/*header section*/
+
+		.container-fluid a{
+			font-size:20px;
+		}
+		
+		.collapse navbar-collapse li{
+			padding-left:20%;
+		}
+
+	/*carousel-section*/
+
+		.carousel-inner img{
+			width:80%;
+			height:120vh;
+		}
+		.carousel-caption p{
+				font-size:30px;
+		}
+		.carousel-caption h5{
+				font-size:35px;
+		}
+
+	/*card section*/
+
+		.col img{
+			height:40vh;
+		}
+		
+		.carousel-inner img{
+			width:40%;
+		}
+		.col h5{
+			text-align:center;
+		}
+		.col p{
+			text-align:center;
+		}
+		
+		
+		
+		
